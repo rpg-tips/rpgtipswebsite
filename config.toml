@@ -1,0 +1,11 @@
+baseurl = "http://example.org"
+title = "RPG Tips"
+author = "JM"
+canonifyurls = true
+paginate = 3
+theme = "aether"
+
+[params]
+brand = "RPG Tips"
+description = "Solo RPG resources, mechanics and actual plays"
+bgimg = "img/ignasi_pattern_s.png"
