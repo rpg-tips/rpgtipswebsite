@@ -5,10 +5,10 @@ date: '2019-10-20'
 slug: interesting-links
 categories:
 tags: []
-description: ''
+description: 'Other places you might like to visit, all of them related to solo RPGs.'
 dropCap: yes
 displayInMenu: yes
-displayInList: no
+displayInList: yes
 resources:
   name: featuredImage
   src: ''
