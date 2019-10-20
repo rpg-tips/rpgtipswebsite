@@ -28,6 +28,7 @@ resources:
 # Random Links
 
 - [Word Mill games](https://wordmillgames.com/): the makers of Mythic (with my videos on some pages!).
+- [soloRPG Patreon](https://www.patreon.com/solorpg): very good, small sized content for soloRPG.
 - [solorpg.com](https://www.rpgsolo.com/): a monolithic solution to play online.
 - [The Complete Guide To Solo Gaming](http://www.rpgready.com/solo-roleplaying-solo-rpg/): a bit old but still a good cover of the basics about solo.
 - [Solo RPG Resources](https://dieheart.net/solo-rpg-resources/): a mammoth of a list of interesting resources.
