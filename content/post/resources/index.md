@@ -8,6 +8,16 @@ dropCap: true
 title: Solo RPG Resources
 ---
 
+## The Mythic Game Master Emulator Product Line
+
+1. [The Game Master Emulator Original Book](https://www.drivethrurpg.com/product/20798/Mythic-Game-Master-Emulator?affiliate_id=909715). Start here if you don't know anything about solo gaming.
+2. [Mythic Variations I](https://www.drivethrurpg.com/product/25601/Mythic-Variations?affiliate_id=909715).
+3. [Mythic Variations II](https://www.drivethrurpg.com/product/229391/Mythic-Variations-2?affiliate_id=909715).
+4. [The Location Crafter](https://www.drivethrurpg.com/product/141633/The-Location-Crafter?affiliate_id=909715).
+5. [The Creature Crafter](https://www.drivethrurpg.com/product/62850/The-Creature-Crafter?affiliate_id=909715).
+6. [The Adventure Crafter](https://www.drivethrurpg.com/product/261479/The-Adventure-Crafter?affiliate_id=909715).
+7. [The Mythic Game Master Emulator Deck](https://www.drivethrurpg.com/product/257195/Mythic-Game-Master-Emulator-Deck?affiliate_id=909715).
+
 ## Rulesets
 
 1. [Scarlet Heroes](https://www.drivethrurpg.com/product/127180/Scarlet-Heroes?affiliate_id=909715) (and check out the other games by Sine Nomine).
