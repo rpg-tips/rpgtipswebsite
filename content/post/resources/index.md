@@ -8,6 +8,8 @@ dropCap: true
 title: Solo RPG Resources
 ---
 
+This list was compiled as a support for [this video](https://www.youtube.com/watch?v=cn91TOf9j3M).
+
 ## The Mythic Game Master Emulator Product Line
 
 1. [The Game Master Emulator Original Book](https://www.drivethrurpg.com/product/20798/Mythic-Game-Master-Emulator?affiliate_id=909715). Start here if you don't know anything about solo gaming.
@@ -18,7 +20,7 @@ title: Solo RPG Resources
 6. [The Adventure Crafter](https://www.drivethrurpg.com/product/261479/The-Adventure-Crafter?affiliate_id=909715).
 7. [The Mythic Game Master Emulator Deck](https://www.drivethrurpg.com/product/257195/Mythic-Game-Master-Emulator-Deck?affiliate_id=909715).
 
-## Rulesets
+## Rulesets of games made to play solo
 
 1. [Scarlet Heroes](https://www.drivethrurpg.com/product/127180/Scarlet-Heroes?affiliate_id=909715) (and check out the other games by Sine Nomine).
 2. [Ironsworn](https://www.ironswornrpg.com/)
@@ -52,3 +54,10 @@ title: Solo RPG Resources
 1. [Adventuresmith](https://play.google.com/store/apps/details?id=org.steavesea.adventuresmith&hl=en)
 2. [Custom Image Dice](https://play.google.com/store/apps/details?id=org.boardnaut.studios.customimagedice&hl=en_US)
 3. [Cardwarden](http://cardwarden.com/)
+
+## Mapping and Graphics
+
+1. [Wonderdraft](https://www.wonderdraft.net/)
+2. [Watabou's Medieval City Generator](https://watabou.itch.io/medieval-fantasy-city-generator)
+3. [Azgaar Fantasy Map Generator](https://azgaar.github.io/Fantasy-Map-Generator/)
+4. [Heraldry Generator](https://worldspinner.com/heraldry/device_editor/)
