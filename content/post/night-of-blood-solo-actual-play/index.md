@@ -12,65 +12,9 @@ dropCap: yes
 displayInMenu: no
 displayInList: yes
 resources:
-  name: featuredImage
-  src: 'cover.jpg'
-  params:
-    description: 'Cover of Night of Blood'
+- name: featuredImage
+  src: "cover.jpg"
 ---
-
-# Night of Blood Adventure Script
-
-## Core
-
-- What? Stop a demonic ritual.
-- How? Blood sacrifice.
-- Where? A shrine below the cellar of an inn.
-- Why? To summon a demon.
-- When? Tonight.
-
-## Setpieces
-
-### The Forest
-
-- Heavy rain and storm.
-- Sounds of hunting party of beastmen.
-- Persecution and possible fight.
-
-### The Arrival
-
-- The suspicious mutants.
-- The dinner.
-
-### The Ceremony
-
-- Walking up drugged.
-- Potential attack by Fagor.
-- Finding the ritual.
-- Fighting the demon.
-
-## Locations
-
-- The forest.
-- The inn.
-- The ferry.
-- The cellar.
-- The stables.
-- The coach house.
-- The shrine.
-
-## NPCs
-
-- The Beastmen.
-- Hans.
-- Otto.
-- Fagor.
-- Wilhem.
-- The Demon.
-- The previous patrons.
-
-## Objects
-
-- Demon statue.
 
 # Night of Blood, Mythic style
 
@@ -94,6 +38,59 @@ I will play as Evard Hortig, a novice Runic Sculptor, who hasn't passed his asce
 
 Night of Blood starts with the party traversing a forest, at night, with a heavy rain, with the potential of being attacked by beastmen. This makes the party seek refuge in an inn, which has been recently overrun by demonic cultists who are trying to summon an infernal entity by sacrificing the inn patrons in the basement. I will start in the forest, and let Mythic take the lead, while ensuring that the party reaches the inn. Thus, I will play the high level narrative, but I will let Mythic alter almost everything else.
 
+Here's the script I wrote after reading the adventure:
+
+### Core
+
+- What? Stop a demonic ritual.
+- How? Blood sacrifice.
+- Where? A shrine below the cellar of an inn.
+- Why? To summon a demon.
+- When? Tonight.
+
+### Setpieces
+
+#### The Forest
+
+- Heavy rain and storm.
+- Sounds of hunting party of beastmen.
+- Persecution and possible fight.
+
+#### The Arrival
+
+- The suspicious mutants.
+- The dinner.
+
+#### The Ceremony
+
+- Walking up drugged.
+- Potential attack by Fagor.
+- Finding the ritual.
+- Fighting the demon.
+
+### Locations
+
+- The forest.
+- The inn.
+- The ferry.
+- The cellar.
+- The stables.
+- The coach house.
+- The shrine.
+
+### NPCs
+
+- The Beastmen.
+- Hans.
+- Otto.
+- Fagor.
+- Wilhem.
+- The Demon.
+- The previous patrons.
+
+### Objects
+
+- Demon statue.
 
 ## Scene 1: The Forest
 ### Mechanics
