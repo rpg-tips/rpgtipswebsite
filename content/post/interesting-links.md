@@ -32,6 +32,9 @@ resources:
 - [solorpg.com](https://www.rpgsolo.com/): a monolithic solution to play online.
 - [The Complete Guide To Solo Gaming](http://www.rpgready.com/solo-roleplaying-solo-rpg/): a bit old but still a good cover of the basics about solo.
 - [Solo RPG Resources](https://dieheart.net/solo-rpg-resources/): a mammoth of a list of interesting resources.
+- [Solo RPG Voyages](https://solorpgvoyages.wordpress.com/): solo RPG actual plays and reviews.
+- [Wisps of Time](https://wispsoftime.com/): very good ideas and actual plays.
+- [Alea Iactanda Est](https://aleaiactandaest.blogspot.com/): more actual plays.
 - [Technoskald's actual plays](https://technoskald.me/tag/solo-rpg/): nice blog of actual plays.
 
 # Solo RPG Communities
