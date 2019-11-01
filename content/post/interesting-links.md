@@ -18,6 +18,7 @@ resources:
 
 # Solo RPG Youtube channels
 
+- [RPG Tips](https://www.youtube.com/channel/UCp_qWaHM9O5dz7gMiXpqKnQ): Your truly.
 - [Me, Myself & Die](https://www.youtube.com/channel/UCtiBzkVoYrugJkrpW7_75Ag): the best solo RPG actual play you're going to find in terms of fun and technical quality.
 - [Geek Gamers](https://www.youtube.com/channel/UCLnDxuZE6qWwWxZCN9y8JQA): a ton of videos playing EVERYTHING.
 - [Artichoke's Dip](https://www.youtube.com/channel/UCY4Ne0FHlPq7qUMti4H--zA): this guy has been making videos about solo gaming for a long time and it's a reference in the hobby.
