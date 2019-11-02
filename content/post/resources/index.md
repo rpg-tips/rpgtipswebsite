@@ -48,12 +48,18 @@ This list was compiled as a support for [this video](https://www.youtube.com/wat
 7. [Donjon](https://donjon.bin.sh/)
 8. [Chaotic Shiny](http://chaoticshiny.com/index.php)
 9. [Fantasy Names Generators](https://www.fantasynamegenerators.com/)
+10. [Snej Oracles](https://github.com/snej/oracles)
 
 ## Apps
 
-1. [Adventuresmith](https://play.google.com/store/apps/details?id=org.steavesea.adventuresmith&hl=en)
-2. [Custom Image Dice](https://play.google.com/store/apps/details?id=org.boardnaut.studios.customimagedice&hl=en_US)
-3. [Cardwarden](http://cardwarden.com/)
+1. [Adventuresmith](https://play.google.com/store/apps/details?id=org.steavesea.adventuresmith&hl=en) (Android)
+2. [Custom Image Dice](https://play.google.com/store/apps/details?id=org.boardnaut.studios.customimagedice&hl=en_US) (Android)
+3. [Cardwarden](http://cardwarden.com/) (iOS)
+4. [Assistant for Mythic](https://play.google.com/store/apps/details?id=hu.glezmen.mythicassistant&hl=en_US) (Android)
+5. Rory Story Cubes ([iOS](https://apps.apple.com/gb/app/rorys-story-cubes/id342808551))([Android](https://play.google.com/store/apps/details?id=com.thecreativityhub.RSC&hl=en_US))
+6. [ZeroDM](https://marketplace.visualstudio.com/items?itemName=juanlucha.zerogm) (Visual Studio Extension)
+7. [Tabletop Audio](https://tabletopaudio.com/) (Website)
+
 
 ## Mapping and Graphics
 
@@ -61,3 +67,5 @@ This list was compiled as a support for [this video](https://www.youtube.com/wat
 2. [Watabou's Medieval City Generator](https://watabou.itch.io/medieval-fantasy-city-generator)
 3. [Azgaar Fantasy Map Generator](https://azgaar.github.io/Fantasy-Map-Generator/)
 4. [Heraldry Generator](https://worldspinner.com/heraldry/device_editor/)
+5. [Dungeon Fog Map Creator](https://www.dungeonfog.com/ )
+6. [Foundry VTT](http://foundryvtt.com/)
