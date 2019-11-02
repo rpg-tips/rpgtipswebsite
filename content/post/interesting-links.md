@@ -37,6 +37,7 @@ resources:
 - [Wisps of Time](https://wispsoftime.com/): very good ideas and actual plays.
 - [Alea Iactanda Est](https://aleaiactandaest.blogspot.com/): more actual plays.
 - [Technoskald's actual plays](https://technoskald.me/tag/solo-rpg/): nice blog of actual plays.
+- [Pen paper and dice Investigation Rules](https://penpaperanddice.home.blog/2019/10/30/solo-rpg-investigation-framework/): how to run an investigation game, for you, CoC and murder mystery fans.
 
 # Solo RPG Communities
 
