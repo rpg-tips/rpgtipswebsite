@@ -69,3 +69,4 @@ This list was compiled as a support for [this video](https://www.youtube.com/wat
 4. [Heraldry Generator](https://worldspinner.com/heraldry/device_editor/)
 5. [Dungeon Fog Map Creator](https://www.dungeonfog.com/ )
 6. [Foundry VTT](http://foundryvtt.com/)
+7. [Watabou's One Page Dungeon Map Generator](https://watabou.itch.io/one-page-dungeon)
