@@ -17,7 +17,7 @@ resources:
     description: ''
 ---
 
-# Monday, 3rd of November, 2019
+# Monday, 4th of November, 2019
 
 Philip goes to work, as usual. It's raining, as usual. People are annoying, as usual. Nothing changes. Except when he gets back home: one of the doors in the hallway, one that is always closed, is now open. Just a bit. He cannot see inside, but he can see that the lock has been busted. That's strange. Intrigued, he tries to push the door, softly.
 
@@ -35,7 +35,7 @@ He's his neighbor, he lives in the 4th floor. This room seems to be a communal t
 > Now, I want things to start already, so... do they happen during the evening, at night or in the early morning? I roll 1d3: in the early morning.
 > I use the Solo Investigator's Handbook Dice Roll events: "Investigators harassed by suspicious cop, possibly related to mystery or just an asshole cop."
 
-# Tuesday, 4th of November, 2019
+# Tuesday, 5th of November, 2019
 
 ## Morning
 
