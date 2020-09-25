@@ -26,7 +26,7 @@ demons and malevolent spirits when he was a kid served in fostering that feeling
 
 > To generate his current job, I generate another NPC using UNE. He's a corrupt worker, motivated by advocating envy, oppressing affluence and associating the poor. He's... a union representative.
 
-He's a union lawyer, representing the poor workers when their rights have been abused. He's happy, he's able to make a difference in the world, even if it's very little and even if he doesn´t always succeed. Of course, his college friends earn much more money than he does. At least he's not a drone. He hasn´t sold his soul to the establishment. He's very clear in making this point when he talks to his mother: he's not a drone. And if he took that payment once from that company, well, that was because he was going to get evicted and, hey, the workers were not going to be without a job, they were just losing some overtime money. It was nothing. He's making a difference. But he also has to survive.
+He's a union lawyer, representing the poor workers when their rights have been abused. He's happy, he's able to make a difference in the world, even if it's very little and even if he doesn´t always succeed. Of course, his college friends earn much more money than he does. At least he's not a drone. He hasn't sold his soul to the establishment. He's very clear in making this point when he talks to his mother: he's not a drone. And if he took that payment once from that company, well, that was because he was going to get evicted and, hey, the workers were not going to be without a job, they were just losing some overtime money. It was nothing. He's making a difference. But he also has to survive.
 
 ## Aspects
 
